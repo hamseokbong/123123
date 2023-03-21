@@ -19,7 +19,7 @@ class NewExSub {
 class test{
 	public void sum(int a, int b) {
 		a = 10;
-		b = 20;
+		b = 20; 
 		System.out.println(a+b); 
 	}
 }
