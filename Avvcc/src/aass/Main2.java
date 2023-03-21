@@ -20,10 +20,10 @@ class test{
 	public void sum(int a, int b) {
 		a = 10;
 		b = 20;
-		System.out.println(a+b);
+		System.out.println(a+b); 
 	}
 }
-
+ 
 public class Main2 {
 	public static void main(String[] args) {
 		NewExSub nes = null; // NewExSub 타입의 nes 객체 선언
