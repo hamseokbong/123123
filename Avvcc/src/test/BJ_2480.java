@@ -33,7 +33,7 @@ public class BJ_2480 {
 				// c > b > a 라면
 				if (c > b) {
 					max = c;
-				}
+				} 
 				// b > (a, c)
 				else {
 					max = b;
@@ -58,7 +58,6 @@ public class BJ_2480 {
 				}
 			}
 		}
-		
 		
 	}
 }
