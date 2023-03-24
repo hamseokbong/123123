@@ -14,6 +14,6 @@ public class BJ_10950 {
 		  
 		for(int i =0; i<a;i++) {
 			st = new StringTokenizer(br.readLine(), " ");
-		}
+		} 
 	}
 }
