@@ -11,7 +11,7 @@ public class BJ_10950 {
 		
 		int a = Integer.parseInt(br.readLine());
 		StringTokenizer st;
-		
+		  
 		for(int i =0; i<a;i++) {
 			st = new StringTokenizer(br.readLine(), " ");
 		}
